@@ -1,9 +1,10 @@
 <h1> Park Sebin</h1>
 
 <span>  </span> 
-<br><br><br>
+![Beantree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beantree09&show_icons=true&theme=tokyonight)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackberry)](https://solved.ac/blackberry/)
-<br><br><br>
+
 # 💪Skills
 ### Platforms & Languages
 
@@ -20,8 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
- <br><br><br>
- 
+
 # :mailbox_with_mail: Contacts
 <span> E-Mail : psb8894@naver.com </span><br><br>
 <a href="아직 미완성..." target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> &nbsp;
