@@ -4,5 +4,5 @@
 <span>  </span> <br>
 <span> Contact : psb8894@naver.com </span> <br><br><br>
 
-<a href target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> &nbsp;
+<a href="아직 미완성..." target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> &nbsp;
 <a href="https://www.instagram.com/se_._b/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> 
