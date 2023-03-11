@@ -25,6 +25,6 @@
 
 # :mailbox_with_mail: Contacts
 <span> E-Mail : psb8894@naver.com </span><br><br>
-<a href="아직 미완성..." target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> &nbsp;
+<a href="https://birdbean.tistory.com/page/%EC%95%BD%EB%A0%A5" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> &nbsp;
 <a href="https://www.instagram.com/se_._b/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br>
 
